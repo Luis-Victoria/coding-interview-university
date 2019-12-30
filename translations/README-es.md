@@ -2,7 +2,7 @@
 
 - Versión original: [Inglés](README.md)
 
-> Originalmente creé esto como una lista corta de tópicos a estudiar para volverse un Ingeniero de Software, pero creció hasta ser la gran lista puede apreciar actualmente. Después de pasar por este plan de estudios ¡[fui contratado como Ingeniero de Desarrollo de Software en Amazon!(Art. Inglés)](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)
+> Originalmente creé esto como una lista corta de tópicos a estudiar para volverse un Ingeniero de Software, pero creció hasta ser la gran lista que puede apreciar actualmente. Después de pasar por este plan de estudios ¡[fui contratado como Ingeniero de Desarrollo de Software en Amazon!(Art. Inglés)](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)
 
 
 > Posiblemente no tenga que estudiar mucho como yo. De cualquier forma todo lo que necesita esta aquí.
@@ -172,9 +172,9 @@ Si desea ser un Ingeniero de Escalabilidad/Seguridad o un Ingeniero de Sistemas,
 
 Cuando comencé este proyecto, no sabía la diferencia entre un stack y un heap, no conocía la notación Big-O, nada acerca de árboles, ni cómo sacar la transversal de una gráfica. Si tenía que programar un algoritmo de clasificación, puedo decir que no hubiera sido muy bueno. Cada estructura de datos que había utilizado estaba incorporada al lenguaje, y yo no sabía cómo funcionaban realmente. Yo nunca tuve que manejar la memoria a menos que un proceso que yo estaba corriendo diera un error de “out of memory”, y tenía que encontrar una alternativa. He usado pocos arreglos de varias dimensiones en mi vida y miles de arreglos asociativos, pero nunca he creado estructuras de datos desde cero.
 
-Pero después de pasar por todo este plan de estudios tengo mucha confianza de que seré contratado. Me toará meses. Si mucho de esto te resulta familiar entonces te tomará mucho menos tiempo.
+Pero después de pasar por todo este plan de estudios tengo mucha confianza de que seré contratado. Me tomará meses. Si mucho de esto te resulta familiar entonces te tomará mucho menos tiempo.
 
-Es un plan largo, puede tome unos meses; pero si le resulta familiar mucho de esto le tomara mucho menos tiempo.
+Es un plan largo, puede tomar unos meses; pero si le resulta familiar mucho de esto le tomará mucho menos tiempo.
 
 ## Como usarlo
 
@@ -244,12 +244,12 @@ Puede usar un lenguaje con el que este cómodo para hacer la parte de código pa
 - Java
 - Python
 
-También podrías usar éstos, pero busca información primero. Puede haber advertencias:
+También podrías usar éstos, pero busca información primero. Puede haber varias condiciones que considerar:
 
 - JavaScript
 - Ruby
 
-Debes sentirte muy cómodo con el lenguaje y ser experto.
+Debes sentirte muy cómodo con el lenguaje y tener suficientes conocimientos sobre él.
 
 Lee más acerca de opciones:
 - http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
@@ -305,8 +305,8 @@ Si tiene más tiempo (Yo quiero este libro):
 
 **Necesita escoger un lenguaje para la entrevista (mire arriba).** Aquí están mis recomendaciones por lenguaje. No tengo recursos para todos los lenguajes. Son bienvenidas adiciones.
 
-Si ha leído alguno de estos, probablemente tenga todos los conocimientos de estructuras de datos y algoritmos que necesitara para hacer problemas de codificación.
-**Puede saltarse todas las video-lecturas en este proyecto**, a menos que quiera una crítica.
+Si ha leído alguno de estos, probablemente tenga todos los conocimientos de estructuras de datos y algoritmos que necesitará para hacer problemas de codificación.
+**Puede saltarse todas las video-lecturas en este proyecto**, a menos que quiera un repaso.
 
 [Recursos adicionales específicos del lenguaje aquí.](programming-language-resources.md)
 
@@ -337,14 +337,14 @@ O:
 
 - [ ] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
     - Por Goodrich, Tamassia, Goldwasser
-    - Ame este libro. Cubre todo y más.
+    - Amé este libro. Cubre todo y más.
     - Código Pythonioco
     - Mi brillante reporte del libro : https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
 
 
 ### Libros Opcionales
 
-**Algunas personas recomiendan estos pero creo exageran, a menos que tenga muchos años de experiencia en Ingeniería de Software y espere una entrevista mucho más difícil:**
+**Algunas personas recomiendan estos pero creo que exageran, a menos que tenga muchos años de experiencia en Ingeniería de Software y espere una entrevista mucho más difícil:**
 
 - [ ] [Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202) (Skiena)
     - Como un resumen y un reconocimiento de problemas
@@ -411,21 +411,21 @@ Haga el suyo gratis:
 
 Tenga en cuenta que empecé desde abajo y hay tarjetas que cubren todo, desde el lenguaje ensamblador y la trivia Python al Machine Learning y estadísticas. Es demasiado para lo que se requiere.
 
-**Nota en las tarjetas:** La primera vez reconozca sabe la respuesta, no marque como conocido; necesita contestar muchas veces correctamente antes de que en realidad lo sepa. La repetición pondrá ese conocimiento de forma más profunda en su cerebro.
+**Nota en las tarjetas:** La primera vez que se de cuenta que conoce la respuesta, no la marque como conocida. Necesita verla y contestarla varias veces de forma correcta para estar seguro(a) que conoce la respuesta. La repetición pondrá ese conocimiento de forma más profunda en su cerebro.
 
 Una alternativa a usar mi sitio de tarjetas es [Anki](http://ankisrs.net/), que me ha sido recomendado muchas veces. Usa un sistema de repetición para ayudarle a recordar. Es amigable con el usuario y disponible para todas las plataformas y tiene un sistema de sincronización en la nube. Cuesta $25 en iOS pero es gratuito en las otras plataformas.
 
-Mis tarjetas en ek formato de Anki: https://ankiweb.net/shared/info/25173560 (Gracias[@xiewenya](https://github.com/xiewenya))
+Mis tarjetas en el formato de Anki: https://ankiweb.net/shared/info/25173560 (Gracias[@xiewenya](https://github.com/xiewenya))
 
-### 3. Revise, revise, revise
+### 3. Repase, repase, repase
 
-Mantuve una serie de hojas clave en ASCII, OSI stack, notación Big-O y más. Las estudie cuando tenía tiempo libre.
+Tengo una serie de hojas clave en ASCII, OSI stack, notación Big-O y más. Las estudie cuando tenía tiempo libre.
 
 Tome un descanso de los problemas de programación por media hora y repase sus tarjetas.
 
 ### 4. Enfóquese
 
-Hay muchas distracciones le pueden quitar tiempo valioso. Enfocarse y concentrarse es difícil.
+Hay muchas distracciones que le pueden quitar tiempo valioso. Enfocarse y concentrarse es difícil.
 
 ## Lo que no verá cubierto
 
@@ -441,7 +441,7 @@ Algunos temas tomarán un día y otros tomarán varios. Algunos son solo para ap
 
 Cada día yo tomé un tema de los siguientes, vi videos sobre el tema y escribía una implementación:
 
-- C - usando estructuras y funciones que toman una estructura * y otra cosa como argumentos.
+- C - usando estructuras y funciones que toman una estructura * y otras que utilizan args.
 - C++ - sin utilizar tipos incorporados
 - C++ - usando tipos incorporados, como std::list de STL para una lista enlazada
 - Python - usando tipos incorporados (para seguir practicando Python)
@@ -528,7 +528,7 @@ Escriba código en un pizarrón o en papel no en la computadora. Pruebe con algu
         - [ ] prepend(item) – Puede usar para insertar encima del índice 0
         - [ ] pop() – Elimina del final, regresa el valor
         - [ ] delete(index) – Elimina el elemento en el índice, intercambia todos desplazándolos a la izquierda
-        - [ ] remove(item) – Busca el valor y elimina el índice lo contiene(aunque este en varios lugares)
+        - [ ] remove(item) – Busca el valor y elimina el índice que lo contiene (aunque este en varios lugares)
         - [ ] find(item) – Busca el valor y regresa el primer índice con ese valor, -1  si no encuentra
         - [ ] resize(Nueva capacidad) // Función privada
             - Cuando alcance el límite, redimensiona al doble el tamaño
@@ -538,7 +538,7 @@ Escriba código en un pizarrón o en papel no en la computadora. Pruebe con algu
         - O(n) Para insertar/eliminar donde sea
     - [ ] Espacio
         - Contiguo en la memoria, por lo que la proximidad ayuda al rendimiento
-        - Espacio necesario = (capacidad de matriz, que es> = n) * tamaño del elemento, pero incluso si 2n, todavía O (n))
+        - Espacio necesario = (capacidad de array, que es>=n) * tamaño del elemento, pero incluso si 2n, todavía O (n))
 
 - ### Listas Enlazadas
     - [ ] Descripción:
@@ -557,7 +557,7 @@ Escriba código en un pizarrón o en papel no en la computadora. Pruebe con algu
     - [ ] Implemente (Lo hice con y sin un puntero de cola):
         - [ ] size() – Regresa el número de elementos en la lista
         - [ ] empty() – Un bool que regresa verdadero si está vacío
-        - [ ] value_at(index) – Regresa el valor  del el n-avo elemento (iniciando con el  0 como primero)
+        - [ ] value_at(index) – Regresa el valor del n-ésimo elemento (iniciando con el  0 como primero)
         - [ ] push_front(value) – Añade un elemento al frente de la lista
         - [ ] pop_front() – Elimina el elemento frontal y regresa su valor
         - [ ] push_back(value) – Añade un elemento al final
@@ -566,7 +566,7 @@ Escriba código en un pizarrón o en papel no en la computadora. Pruebe con algu
         - [ ] back() – Obtiene el valor del último elemento
         - [ ] insert(index, value) – Inserta valor en el índice, por lo que el valor actual en ese índice es apuntado al nuevo elemento en el índice
         - [ ] erase(index) – Borra el nodo del índice dado
-        - [ ] value_n_from_end(n) – Regresa el valor del nodo en la n-ava posición a partir del final de la lista
+        - [ ] value_n_from_end(n) – Regresa el valor del nodo en la n-ésima posición a partir del final de la lista
         - [ ] reverse() – Pone al revés toda la lista
         - [ ] remove_value(value) – Borra el primer elemento en la lista con ese valor
     - [ ] Doble lista enlazada
